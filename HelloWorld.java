@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package helloworld;
+//package helloworld;
 
 /**
  *
@@ -16,7 +16,8 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello world!");
+        System.out.println("Hello GitHub World!");
+	System.out.println("Testing...");
     }
     
 }
